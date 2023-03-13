@@ -1,0 +1,11 @@
+title: Lyra dot dog
+email: hello+www-lyra@benjaminchait.net
+description: Lyra dot dog
+url: https://lyra.dog
+timezone: America/Los_Angeles
+
+plugins:
+  - jekyll-sitemap
+
+include:
+  - _redirects
